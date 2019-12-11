@@ -1,2 +1,0 @@
-# AngularRoutesandbox
-Created with CodeSandbox
